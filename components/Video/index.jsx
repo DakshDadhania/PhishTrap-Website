@@ -14,7 +14,7 @@ const Video = () => {
       <div className="container">
         <SectionTitle
           title="We are here to protect you"
-          paragraph="Stay safe online and keep your personal information secure with AntiPhish."
+          paragraph="Stay safe online and keep your personal information secure with PhishTrap."
           center
           mb="80px"
         />
